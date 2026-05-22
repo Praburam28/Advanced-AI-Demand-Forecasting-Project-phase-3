@@ -1,0 +1,151 @@
+date,product,category,region,sales,revenue
+2026-04-01,Printer,Office,East,141,184851
+2026-04-01,Scanner,Office,East,173,273167
+2026-04-01,Projector,Office,East,146,106872
+2026-04-01,Desk Phone,Office,East,114,148200
+2026-04-01,Paper Shredder,Office,East,158,262596
+2026-04-02,Printer,Office,East,150,124350
+2026-04-02,Scanner,Office,East,108,63072
+2026-04-02,Projector,Office,East,28,16492
+2026-04-02,Desk Phone,Office,East,85,98175
+2026-04-02,Paper Shredder,Office,East,62,111228
+2026-04-03,Printer,Office,East,22,19338
+2026-04-03,Scanner,Office,East,90,95310
+2026-04-03,Projector,Office,East,130,50310
+2026-04-03,Desk Phone,Office,East,64,106880
+2026-04-03,Paper Shredder,Office,East,186,140058
+2026-04-04,Printer,Office,East,94,164030
+2026-04-04,Scanner,Office,East,153,230418
+2026-04-04,Projector,Office,East,60,45000
+2026-04-04,Desk Phone,Office,East,112,106736
+2026-04-04,Paper Shredder,Office,East,153,259182
+2026-04-05,Printer,Office,East,113,111079
+2026-04-05,Scanner,Office,East,116,148132
+2026-04-05,Projector,Office,East,168,129864
+2026-04-05,Desk Phone,Office,East,121,78166
+2026-04-05,Paper Shredder,Office,East,36,58644
+2026-04-06,Printer,Office,East,175,305550
+2026-04-06,Scanner,Office,East,108,67392
+2026-04-06,Projector,Office,East,67,28073
+2026-04-06,Desk Phone,Office,East,147,92022
+2026-04-06,Paper Shredder,Office,East,152,97128
+2026-04-07,Printer,Office,East,175,158900
+2026-04-07,Scanner,Office,East,21,17808
+2026-04-07,Projector,Office,East,153,222768
+2026-04-07,Desk Phone,Office,East,170,114410
+2026-04-07,Paper Shredder,Office,East,124,215264
+2026-04-08,Printer,Office,East,156,263952
+2026-04-08,Scanner,Office,East,46,21160
+2026-04-08,Projector,Office,East,92,159528
+2026-04-08,Desk Phone,Office,East,182,217308
+2026-04-08,Paper Shredder,Office,East,47,38587
+2026-04-09,Printer,Office,East,180,162540
+2026-04-09,Scanner,Office,East,186,93930
+2026-04-09,Projector,Office,East,138,177744
+2026-04-09,Desk Phone,Office,East,147,179928
+2026-04-09,Paper Shredder,Office,East,179,59070
+2026-04-10,Printer,Office,East,137,35072
+2026-04-10,Scanner,Office,East,79,104359
+2026-04-10,Projector,Office,East,154,273966
+2026-04-10,Desk Phone,Office,East,161,107387
+2026-04-10,Paper Shredder,Office,East,34,57868
+2026-04-11,Printer,Office,East,146,211700
+2026-04-11,Scanner,Office,East,115,182160
+2026-04-11,Projector,Office,East,94,94846
+2026-04-11,Desk Phone,Office,East,161,118979
+2026-04-11,Paper Shredder,Office,East,162,255150
+2026-04-12,Printer,Office,East,170,79900
+2026-04-12,Scanner,Office,East,42,21504
+2026-04-12,Projector,Office,East,61,51667
+2026-04-12,Desk Phone,Office,East,51,67167
+2026-04-12,Paper Shredder,Office,East,158,115498
+2026-04-13,Printer,Office,East,126,188118
+2026-04-13,Scanner,Office,East,118,68676
+2026-04-13,Projector,Office,East,58,101906
+2026-04-13,Desk Phone,Office,East,61,71736
+2026-04-13,Paper Shredder,Office,East,61,107604
+2026-04-14,Printer,Office,East,152,145160
+2026-04-14,Scanner,Office,East,66,26202
+2026-04-14,Projector,Office,East,183,163236
+2026-04-14,Desk Phone,Office,East,28,50064
+2026-04-14,Paper Shredder,Office,East,100,163600
+2026-04-15,Printer,Office,East,73,53874
+2026-04-15,Scanner,Office,East,87,52896
+2026-04-15,Projector,Office,East,130,85150
+2026-04-15,Desk Phone,Office,East,38,64562
+2026-04-15,Paper Shredder,Office,East,42,54264
+2026-04-16,Printer,Office,East,174,105444
+2026-04-16,Scanner,Office,East,174,222720
+2026-04-16,Projector,Office,East,182,167804
+2026-04-16,Desk Phone,Office,East,68,48892
+2026-04-16,Paper Shredder,Office,East,164,261088
+2026-04-17,Printer,Office,East,63,97839
+2026-04-17,Scanner,Office,East,62,50778
+2026-04-17,Projector,Office,East,82,91840
+2026-04-17,Desk Phone,Office,East,110,71830
+2026-04-17,Paper Shredder,Office,East,163,57376
+2026-04-18,Printer,Office,East,76,25992
+2026-04-18,Scanner,Office,East,138,241500
+2026-04-18,Projector,Office,East,90,74790
+2026-04-18,Desk Phone,Office,East,168,283248
+2026-04-18,Paper Shredder,Office,East,31,48267
+2026-04-19,Printer,Office,East,113,199784
+2026-04-19,Scanner,Office,East,144,175392
+2026-04-19,Projector,Office,East,34,19448
+2026-04-19,Desk Phone,Office,East,132,206976
+2026-04-19,Paper Shredder,Office,East,76,73568
+2026-04-20,Printer,Office,East,138,234738
+2026-04-20,Scanner,Office,East,74,82658
+2026-04-20,Projector,Office,East,144,141408
+2026-04-20,Desk Phone,Office,East,184,153456
+2026-04-20,Paper Shredder,Office,East,131,154842
+2026-04-21,Printer,Office,East,39,49920
+2026-04-21,Scanner,Office,East,152,249432
+2026-04-21,Projector,Office,East,152,169480
+2026-04-21,Desk Phone,Office,East,100,127200
+2026-04-21,Paper Shredder,Office,East,71,118286
+2026-04-22,Printer,Office,East,141,56259
+2026-04-22,Scanner,Office,East,99,42669
+2026-04-22,Projector,Office,East,113,63393
+2026-04-22,Desk Phone,Office,East,119,73542
+2026-04-22,Paper Shredder,Office,East,52,54444
+2026-04-23,Printer,Office,East,78,116064
+2026-04-23,Scanner,Office,East,158,106334
+2026-04-23,Projector,Office,East,116,87812
+2026-04-23,Desk Phone,Office,East,121,190938
+2026-04-23,Paper Shredder,Office,East,30,30300
+2026-04-24,Printer,Office,East,181,81812
+2026-04-24,Scanner,Office,East,181,200186
+2026-04-24,Projector,Office,East,56,32088
+2026-04-24,Desk Phone,Office,East,127,133477
+2026-04-24,Paper Shredder,Office,East,31,25482
+2026-04-25,Printer,Office,East,96,142848
+2026-04-25,Scanner,Office,East,139,67276
+2026-04-25,Projector,Office,East,33,15708
+2026-04-25,Desk Phone,Office,East,153,134181
+2026-04-25,Paper Shredder,Office,East,134,37386
+2026-04-26,Printer,Office,East,66,61314
+2026-04-26,Scanner,Office,East,172,283972
+2026-04-26,Projector,Office,East,56,94360
+2026-04-26,Desk Phone,Office,East,142,197948
+2026-04-26,Paper Shredder,Office,East,180,81720
+2026-04-27,Printer,Office,East,48,40944
+2026-04-27,Scanner,Office,East,167,129926
+2026-04-27,Projector,Office,East,82,102008
+2026-04-27,Desk Phone,Office,East,119,136731
+2026-04-27,Paper Shredder,Office,East,124,211668
+2026-04-28,Printer,Office,East,74,18500
+2026-04-28,Scanner,Office,East,185,219040
+2026-04-28,Projector,Office,East,135,69660
+2026-04-28,Desk Phone,Office,East,27,44820
+2026-04-28,Paper Shredder,Office,East,82,147518
+2026-04-29,Printer,Office,East,162,92664
+2026-04-29,Scanner,Office,East,166,264604
+2026-04-29,Projector,Office,East,115,197800
+2026-04-29,Desk Phone,Office,East,125,60375
+2026-04-29,Paper Shredder,Office,East,32,46304
+2026-04-30,Printer,Office,East,31,28768
+2026-04-30,Scanner,Office,East,119,90559
+2026-04-30,Projector,Office,East,34,16320
+2026-04-30,Desk Phone,Office,East,79,65096
+2026-04-30,Paper Shredder,Office,East,31,44051

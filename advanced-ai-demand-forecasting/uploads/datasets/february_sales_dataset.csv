@@ -1,0 +1,673 @@
+date,product,category,region,sales,revenue
+2026-02-01,Laptop,Electronics,South,118,138414
+2026-02-01,Mobile,Electronics,West,192,267264
+2026-02-01,Tablet,Electronics,West,113,157635
+2026-02-01,Monitor,Electronics,West,109,84802
+2026-02-01,Camera,Electronics,North,185,321345
+2026-02-01,Keyboard,Accessories,East,123,45018
+2026-02-01,Mouse,Accessories,South,237,227046
+2026-02-01,Headphones,Accessories,South,210,324240
+2026-02-01,Webcam,Accessories,West,47,68667
+2026-02-01,Speaker,Accessories,Central,195,326625
+2026-02-01,Printer,Office,West,167,139278
+2026-02-01,Scanner,Office,South,144,197136
+2026-02-01,Projector,Office,East,136,198288
+2026-02-01,Desk Phone,Office,East,114,51528
+2026-02-01,Paper Shredder,Office,South,138,176088
+2026-02-01,Smart Watch,Wearables,North,235,79195
+2026-02-01,VR Headset,Wearables,East,158,179646
+2026-02-01,Fitness Band,Wearables,West,153,205785
+2026-02-01,Smart Glasses,Wearables,South,28,36680
+2026-02-01,Router,Networking,East,140,74760
+2026-02-01,Switch,Networking,South,78,28314
+2026-02-01,WiFi Adapter,Networking,East,180,160560
+2026-02-01,Modem,Networking,West,78,47346
+2026-02-01,Access Point,Networking,East,45,13905
+2026-02-02,Laptop,Electronics,North,70,91210
+2026-02-02,Mobile,Electronics,East,56,78344
+2026-02-02,Tablet,Electronics,South,157,253241
+2026-02-02,Monitor,Electronics,North,115,87630
+2026-02-02,Camera,Electronics,East,73,72124
+2026-02-02,Keyboard,Accessories,Central,116,170288
+2026-02-02,Mouse,Accessories,North,95,61560
+2026-02-02,Headphones,Accessories,Central,77,93478
+2026-02-02,Webcam,Accessories,Central,216,83160
+2026-02-02,Speaker,Accessories,West,61,61488
+2026-02-02,Printer,Office,East,206,247406
+2026-02-02,Scanner,Office,East,223,216087
+2026-02-02,Projector,Office,East,103,175821
+2026-02-02,Desk Phone,Office,South,50,66750
+2026-02-02,Paper Shredder,Office,West,146,208196
+2026-02-02,Smart Watch,Wearables,South,52,86944
+2026-02-02,VR Headset,Wearables,South,118,109504
+2026-02-02,Fitness Band,Wearables,West,131,64976
+2026-02-02,Smart Glasses,Wearables,South,43,39689
+2026-02-02,Router,Networking,South,143,147862
+2026-02-02,Switch,Networking,North,232,346608
+2026-02-02,WiFi Adapter,Networking,North,51,72012
+2026-02-02,Modem,Networking,East,72,77832
+2026-02-02,Access Point,Networking,West,237,362610
+2026-02-03,Laptop,Electronics,West,51,70992
+2026-02-03,Mobile,Electronics,East,116,52084
+2026-02-03,Tablet,Electronics,East,111,117438
+2026-02-03,Monitor,Electronics,East,145,181830
+2026-02-03,Camera,Electronics,West,167,193386
+2026-02-03,Keyboard,Accessories,South,75,54750
+2026-02-03,Mouse,Accessories,North,139,205025
+2026-02-03,Headphones,Accessories,South,99,91080
+2026-02-03,Webcam,Accessories,South,143,67210
+2026-02-03,Speaker,Accessories,North,55,67210
+2026-02-03,Printer,Office,Central,75,94050
+2026-02-03,Scanner,Office,East,174,100746
+2026-02-03,Projector,Office,South,81,118827
+2026-02-03,Desk Phone,Office,South,35,48090
+2026-02-03,Paper Shredder,Office,North,42,73374
+2026-02-03,Smart Watch,Wearables,North,208,188656
+2026-02-03,VR Headset,Wearables,West,196,162680
+2026-02-03,Fitness Band,Wearables,West,139,166383
+2026-02-03,Smart Glasses,Wearables,West,144,47664
+2026-02-03,Router,Networking,South,84,76944
+2026-02-03,Switch,Networking,East,47,28482
+2026-02-03,WiFi Adapter,Networking,South,163,236187
+2026-02-03,Modem,Networking,East,32,35744
+2026-02-03,Access Point,Networking,South,236,408752
+2026-02-04,Laptop,Electronics,North,51,55590
+2026-02-04,Mobile,Electronics,West,152,166896
+2026-02-04,Tablet,Electronics,South,159,107802
+2026-02-04,Monitor,Electronics,South,146,63510
+2026-02-04,Camera,Electronics,East,79,51824
+2026-02-04,Keyboard,Accessories,West,118,35518
+2026-02-04,Mouse,Accessories,West,133,169176
+2026-02-04,Headphones,Accessories,South,102,145962
+2026-02-04,Webcam,Accessories,East,70,78400
+2026-02-04,Speaker,Accessories,Central,34,38862
+2026-02-04,Printer,Office,North,95,111245
+2026-02-04,Scanner,Office,North,37,24716
+2026-02-04,Projector,Office,Central,115,122245
+2026-02-04,Desk Phone,Office,West,211,209312
+2026-02-04,Paper Shredder,Office,East,72,94392
+2026-02-04,Smart Watch,Wearables,West,33,36366
+2026-02-04,VR Headset,Wearables,Central,164,220744
+2026-02-04,Fitness Band,Wearables,East,138,205758
+2026-02-04,Smart Glasses,Wearables,South,205,270190
+2026-02-04,Router,Networking,West,76,49400
+2026-02-04,Switch,Networking,Central,110,58410
+2026-02-04,WiFi Adapter,Networking,Central,162,281394
+2026-02-04,Modem,Networking,South,85,131920
+2026-02-04,Access Point,Networking,West,182,87724
+2026-02-05,Laptop,Electronics,South,78,130572
+2026-02-05,Mobile,Electronics,Central,86,78776
+2026-02-05,Tablet,Electronics,East,233,391440
+2026-02-05,Monitor,Electronics,Central,232,162168
+2026-02-05,Camera,Electronics,North,149,151384
+2026-02-05,Keyboard,Accessories,South,101,42521
+2026-02-05,Mouse,Accessories,North,66,25080
+2026-02-05,Headphones,Accessories,West,176,136400
+2026-02-05,Webcam,Accessories,East,65,83720
+2026-02-05,Speaker,Accessories,East,233,166828
+2026-02-05,Printer,Office,West,179,83235
+2026-02-05,Scanner,Office,South,88,114488
+2026-02-05,Projector,Office,West,150,188250
+2026-02-05,Desk Phone,Office,West,194,182942
+2026-02-05,Paper Shredder,Office,South,221,263211
+2026-02-05,Smart Watch,Wearables,West,74,132608
+2026-02-05,VR Headset,Wearables,North,194,275286
+2026-02-05,Fitness Band,Wearables,Central,141,78396
+2026-02-05,Smart Glasses,Wearables,West,224,307328
+2026-02-05,Router,Networking,South,126,223902
+2026-02-05,Switch,Networking,North,230,138920
+2026-02-05,WiFi Adapter,Networking,East,70,38850
+2026-02-05,Modem,Networking,North,181,234214
+2026-02-05,Access Point,Networking,Central,224,106848
+2026-02-06,Laptop,Electronics,North,34,30634
+2026-02-06,Mobile,Electronics,West,145,210830
+2026-02-06,Tablet,Electronics,East,196,102312
+2026-02-06,Monitor,Electronics,South,36,28908
+2026-02-06,Camera,Electronics,East,136,42976
+2026-02-06,Keyboard,Accessories,Central,78,83538
+2026-02-06,Mouse,Accessories,North,165,60720
+2026-02-06,Headphones,Accessories,North,130,202800
+2026-02-06,Webcam,Accessories,Central,110,79090
+2026-02-06,Speaker,Accessories,South,45,26820
+2026-02-06,Printer,Office,South,112,94864
+2026-02-06,Scanner,Office,West,93,144429
+2026-02-06,Projector,Office,East,196,147000
+2026-02-06,Desk Phone,Office,South,56,79240
+2026-02-06,Paper Shredder,Office,North,65,88205
+2026-02-06,Smart Watch,Wearables,North,48,76272
+2026-02-06,VR Headset,Wearables,South,141,48645
+2026-02-06,Fitness Band,Wearables,South,66,47916
+2026-02-06,Smart Glasses,Wearables,West,59,80948
+2026-02-06,Router,Networking,South,130,194220
+2026-02-06,Switch,Networking,West,145,81490
+2026-02-06,WiFi Adapter,Networking,Central,114,128592
+2026-02-06,Modem,Networking,Central,99,76824
+2026-02-06,Access Point,Networking,East,226,308942
+2026-02-07,Laptop,Electronics,West,208,203632
+2026-02-07,Mobile,Electronics,West,35,23660
+2026-02-07,Tablet,Electronics,South,51,84507
+2026-02-07,Monitor,Electronics,North,50,52150
+2026-02-07,Camera,Electronics,Central,92,156952
+2026-02-07,Keyboard,Accessories,South,52,24388
+2026-02-07,Mouse,Accessories,West,171,113715
+2026-02-07,Headphones,Accessories,South,76,73568
+2026-02-07,Webcam,Accessories,North,27,47493
+2026-02-07,Speaker,Accessories,Central,216,174744
+2026-02-07,Printer,Office,East,51,27285
+2026-02-07,Scanner,Office,North,64,23616
+2026-02-07,Projector,Office,West,31,55521
+2026-02-07,Desk Phone,Office,South,68,71264
+2026-02-07,Paper Shredder,Office,South,36,22284
+2026-02-07,Smart Watch,Wearables,West,106,29680
+2026-02-07,VR Headset,Wearables,East,45,36765
+2026-02-07,Fitness Band,Wearables,Central,213,344847
+2026-02-07,Smart Glasses,Wearables,West,60,98520
+2026-02-07,Router,Networking,South,68,118728
+2026-02-07,Switch,Networking,North,231,389235
+2026-02-07,WiFi Adapter,Networking,West,159,248835
+2026-02-07,Modem,Networking,East,59,20827
+2026-02-07,Access Point,Networking,East,77,58674
+2026-02-08,Laptop,Electronics,Central,106,126246
+2026-02-08,Mobile,Electronics,North,118,74576
+2026-02-08,Tablet,Electronics,North,96,73728
+2026-02-08,Monitor,Electronics,North,168,224952
+2026-02-08,Camera,Electronics,South,151,56625
+2026-02-08,Keyboard,Accessories,North,203,120379
+2026-02-08,Mouse,Accessories,West,141,188376
+2026-02-08,Headphones,Accessories,South,203,268163
+2026-02-08,Webcam,Accessories,East,197,264177
+2026-02-08,Speaker,Accessories,West,32,16576
+2026-02-08,Printer,Office,South,116,145464
+2026-02-08,Scanner,Office,Central,144,136080
+2026-02-08,Projector,Office,West,224,193088
+2026-02-08,Desk Phone,Office,North,131,164667
+2026-02-08,Paper Shredder,Office,South,163,198208
+2026-02-08,Smart Watch,Wearables,East,169,48841
+2026-02-08,VR Headset,Wearables,West,102,131682
+2026-02-08,Fitness Band,Wearables,East,116,181308
+2026-02-08,Smart Glasses,Wearables,South,181,162538
+2026-02-08,Router,Networking,North,81,104004
+2026-02-08,Switch,Networking,Central,186,119970
+2026-02-08,WiFi Adapter,Networking,Central,127,98425
+2026-02-08,Modem,Networking,East,237,241740
+2026-02-08,Access Point,Networking,South,216,137376
+2026-02-09,Laptop,Electronics,West,129,135837
+2026-02-09,Mobile,Electronics,Central,174,122670
+2026-02-09,Tablet,Electronics,West,225,335250
+2026-02-09,Monitor,Electronics,Central,177,90978
+2026-02-09,Camera,Electronics,North,193,312853
+2026-02-09,Keyboard,Accessories,West,185,218300
+2026-02-09,Mouse,Accessories,South,193,306677
+2026-02-09,Headphones,Accessories,West,117,62010
+2026-02-09,Webcam,Accessories,North,170,87210
+2026-02-09,Speaker,Accessories,South,143,238238
+2026-02-09,Printer,Office,North,92,136620
+2026-02-09,Scanner,Office,Central,223,79165
+2026-02-09,Projector,Office,North,191,140576
+2026-02-09,Desk Phone,Office,South,197,322489
+2026-02-09,Paper Shredder,Office,Central,216,325296
+2026-02-09,Smart Watch,Wearables,Central,144,54000
+2026-02-09,VR Headset,Wearables,Central,223,318221
+2026-02-09,Fitness Band,Wearables,Central,162,268920
+2026-02-09,Smart Glasses,Wearables,East,68,23528
+2026-02-09,Router,Networking,East,213,100110
+2026-02-09,Switch,Networking,West,200,165600
+2026-02-09,WiFi Adapter,Networking,West,132,48708
+2026-02-09,Modem,Networking,East,112,87920
+2026-02-09,Access Point,Networking,East,47,59173
+2026-02-10,Laptop,Electronics,West,219,383250
+2026-02-10,Mobile,Electronics,East,86,119110
+2026-02-10,Tablet,Electronics,North,114,171456
+2026-02-10,Monitor,Electronics,North,95,48545
+2026-02-10,Camera,Electronics,Central,120,121680
+2026-02-10,Keyboard,Accessories,South,187,273020
+2026-02-10,Mouse,Accessories,Central,183,228384
+2026-02-10,Headphones,Accessories,Central,83,44156
+2026-02-10,Webcam,Accessories,North,220,253000
+2026-02-10,Speaker,Accessories,East,221,151606
+2026-02-10,Printer,Office,Central,154,265342
+2026-02-10,Scanner,Office,Central,51,66810
+2026-02-10,Projector,Office,Central,207,108468
+2026-02-10,Desk Phone,Office,North,89,84372
+2026-02-10,Paper Shredder,Office,North,143,185185
+2026-02-10,Smart Watch,Wearables,West,144,222192
+2026-02-10,VR Headset,Wearables,North,130,192660
+2026-02-10,Fitness Band,Wearables,Central,78,66066
+2026-02-10,Smart Glasses,Wearables,South,216,236736
+2026-02-10,Router,Networking,South,105,164220
+2026-02-10,Switch,Networking,South,61,50935
+2026-02-10,WiFi Adapter,Networking,North,210,181440
+2026-02-10,Modem,Networking,Central,206,90640
+2026-02-10,Access Point,Networking,South,74,78514
+2026-02-11,Laptop,Electronics,West,155,48980
+2026-02-11,Mobile,Electronics,South,235,277535
+2026-02-11,Tablet,Electronics,North,199,357404
+2026-02-11,Monitor,Electronics,North,216,364176
+2026-02-11,Camera,Electronics,South,167,290413
+2026-02-11,Keyboard,Accessories,East,31,22940
+2026-02-11,Mouse,Accessories,West,62,15748
+2026-02-11,Headphones,Accessories,West,214,135034
+2026-02-11,Webcam,Accessories,West,233,192458
+2026-02-11,Speaker,Accessories,North,228,90972
+2026-02-11,Printer,Office,East,138,200928
+2026-02-11,Scanner,Office,East,223,312200
+2026-02-11,Projector,Office,South,184,264960
+2026-02-11,Desk Phone,Office,West,142,230750
+2026-02-11,Paper Shredder,Office,North,137,54937
+2026-02-11,Smart Watch,Wearables,North,159,218943
+2026-02-11,VR Headset,Wearables,West,64,43328
+2026-02-11,Fitness Band,Wearables,South,71,60421
+2026-02-11,Smart Glasses,Wearables,Central,72,31968
+2026-02-11,Router,Networking,West,98,168560
+2026-02-11,Switch,Networking,West,209,75867
+2026-02-11,WiFi Adapter,Networking,South,87,153468
+2026-02-11,Modem,Networking,West,75,59325
+2026-02-11,Access Point,Networking,North,36,30456
+2026-02-12,Laptop,Electronics,Central,33,17589
+2026-02-12,Mobile,Electronics,South,31,25451
+2026-02-12,Tablet,Electronics,South,131,177374
+2026-02-12,Monitor,Electronics,North,144,53136
+2026-02-12,Camera,Electronics,North,82,68388
+2026-02-12,Keyboard,Accessories,West,131,138074
+2026-02-12,Mouse,Accessories,South,36,25128
+2026-02-12,Headphones,Accessories,East,221,306306
+2026-02-12,Webcam,Accessories,East,110,130460
+2026-02-12,Speaker,Accessories,South,123,89298
+2026-02-12,Printer,Office,South,136,218280
+2026-02-12,Scanner,Office,East,74,111814
+2026-02-12,Projector,Office,East,76,80484
+2026-02-12,Desk Phone,Office,Central,57,72846
+2026-02-12,Paper Shredder,Office,North,209,258115
+2026-02-12,Smart Watch,Wearables,West,191,57300
+2026-02-12,VR Headset,Wearables,Central,184,138368
+2026-02-12,Fitness Band,Wearables,Central,90,42210
+2026-02-12,Smart Glasses,Wearables,East,97,29779
+2026-02-12,Router,Networking,West,143,44044
+2026-02-12,Switch,Networking,East,197,87271
+2026-02-12,WiFi Adapter,Networking,West,184,240488
+2026-02-12,Modem,Networking,South,180,201060
+2026-02-12,Access Point,Networking,North,68,85680
+2026-02-13,Laptop,Electronics,East,123,31980
+2026-02-13,Mobile,Electronics,North,63,21357
+2026-02-13,Tablet,Electronics,West,207,345690
+2026-02-13,Monitor,Electronics,South,216,187920
+2026-02-13,Camera,Electronics,North,185,213305
+2026-02-13,Keyboard,Accessories,West,34,47430
+2026-02-13,Mouse,Accessories,East,158,228152
+2026-02-13,Headphones,Accessories,North,136,202640
+2026-02-13,Webcam,Accessories,South,56,89208
+2026-02-13,Speaker,Accessories,South,150,132150
+2026-02-13,Printer,Office,South,35,31920
+2026-02-13,Scanner,Office,East,56,85568
+2026-02-13,Projector,Office,West,146,102492
+2026-02-13,Desk Phone,Office,Central,82,135546
+2026-02-13,Paper Shredder,Office,West,172,159788
+2026-02-13,Smart Watch,Wearables,South,223,169034
+2026-02-13,VR Headset,Wearables,Central,151,111136
+2026-02-13,Fitness Band,Wearables,East,28,35000
+2026-02-13,Smart Glasses,Wearables,East,29,11049
+2026-02-13,Router,Networking,West,193,71217
+2026-02-13,Switch,Networking,East,226,369284
+2026-02-13,WiFi Adapter,Networking,South,237,301227
+2026-02-13,Modem,Networking,North,30,51240
+2026-02-13,Access Point,Networking,East,236,356596
+2026-02-14,Laptop,Electronics,South,172,95976
+2026-02-14,Mobile,Electronics,North,52,50596
+2026-02-14,Tablet,Electronics,South,123,53013
+2026-02-14,Monitor,Electronics,East,129,134676
+2026-02-14,Camera,Electronics,West,206,180250
+2026-02-14,Keyboard,Accessories,Central,237,355737
+2026-02-14,Mouse,Accessories,North,165,55605
+2026-02-14,Headphones,Accessories,South,136,79424
+2026-02-14,Webcam,Accessories,Central,181,125433
+2026-02-14,Speaker,Accessories,South,110,87670
+2026-02-14,Printer,Office,North,128,213760
+2026-02-14,Scanner,Office,East,69,24150
+2026-02-14,Projector,Office,East,187,293216
+2026-02-14,Desk Phone,Office,South,39,42354
+2026-02-14,Paper Shredder,Office,North,104,162760
+2026-02-14,Smart Watch,Wearables,Central,201,313560
+2026-02-14,VR Headset,Wearables,East,38,43662
+2026-02-14,Fitness Band,Wearables,West,55,51920
+2026-02-14,Smart Glasses,Wearables,South,160,166880
+2026-02-14,Router,Networking,Central,162,66906
+2026-02-14,Switch,Networking,East,204,100980
+2026-02-14,WiFi Adapter,Networking,North,157,143027
+2026-02-14,Modem,Networking,Central,83,32785
+2026-02-14,Access Point,Networking,East,220,135520
+2026-02-15,Laptop,Electronics,South,31,33759
+2026-02-15,Mobile,Electronics,South,69,69828
+2026-02-15,Tablet,Electronics,West,111,127539
+2026-02-15,Monitor,Electronics,East,236,268096
+2026-02-15,Camera,Electronics,West,76,59508
+2026-02-15,Keyboard,Accessories,West,42,28056
+2026-02-15,Mouse,Accessories,West,192,148992
+2026-02-15,Headphones,Accessories,Central,225,186300
+2026-02-15,Webcam,Accessories,North,132,205524
+2026-02-15,Speaker,Accessories,Central,81,112509
+2026-02-15,Printer,Office,North,164,175152
+2026-02-15,Scanner,Office,Central,47,34780
+2026-02-15,Projector,Office,Central,42,53760
+2026-02-15,Desk Phone,Office,East,156,141336
+2026-02-15,Paper Shredder,Office,East,138,156906
+2026-02-15,Smart Watch,Wearables,North,233,134441
+2026-02-15,VR Headset,Wearables,East,212,200976
+2026-02-15,Fitness Band,Wearables,North,76,133000
+2026-02-15,Smart Glasses,Wearables,West,102,33660
+2026-02-15,Router,Networking,Central,85,152660
+2026-02-15,Switch,Networking,West,172,74304
+2026-02-15,WiFi Adapter,Networking,Central,128,166272
+2026-02-15,Modem,Networking,North,206,108562
+2026-02-15,Access Point,Networking,West,96,35712
+2026-02-16,Laptop,Electronics,Central,84,68880
+2026-02-16,Mobile,Electronics,North,27,33075
+2026-02-16,Tablet,Electronics,West,207,291663
+2026-02-16,Monitor,Electronics,West,93,66216
+2026-02-16,Camera,Electronics,North,27,22167
+2026-02-16,Keyboard,Accessories,Central,130,133900
+2026-02-16,Mouse,Accessories,East,224,99008
+2026-02-16,Headphones,Accessories,West,100,173300
+2026-02-16,Webcam,Accessories,West,136,205904
+2026-02-16,Speaker,Accessories,South,103,83018
+2026-02-16,Printer,Office,East,71,29962
+2026-02-16,Scanner,Office,South,156,172536
+2026-02-16,Projector,Office,Central,79,34049
+2026-02-16,Desk Phone,Office,South,112,35280
+2026-02-16,Paper Shredder,Office,West,147,152880
+2026-02-16,Smart Watch,Wearables,East,177,313290
+2026-02-16,VR Headset,Wearables,North,70,51590
+2026-02-16,Fitness Band,Wearables,South,170,193290
+2026-02-16,Smart Glasses,Wearables,East,195,55380
+2026-02-16,Router,Networking,Central,160,233920
+2026-02-16,Switch,Networking,East,230,280830
+2026-02-16,WiFi Adapter,Networking,North,34,30362
+2026-02-16,Modem,Networking,North,170,271320
+2026-02-16,Access Point,Networking,Central,37,27713
+2026-02-17,Laptop,Electronics,Central,196,121324
+2026-02-17,Mobile,Electronics,Central,93,123504
+2026-02-17,Tablet,Electronics,West,160,275360
+2026-02-17,Monitor,Electronics,South,77,121121
+2026-02-17,Camera,Electronics,Central,50,28600
+2026-02-17,Keyboard,Accessories,East,146,204254
+2026-02-17,Mouse,Accessories,West,233,122791
+2026-02-17,Headphones,Accessories,Central,167,252337
+2026-02-17,Webcam,Accessories,South,54,53676
+2026-02-17,Speaker,Accessories,Central,208,263120
+2026-02-17,Printer,Office,South,62,70990
+2026-02-17,Scanner,Office,North,62,62558
+2026-02-17,Projector,Office,East,96,104352
+2026-02-17,Desk Phone,Office,East,71,50268
+2026-02-17,Paper Shredder,Office,North,199,225467
+2026-02-17,Smart Watch,Wearables,South,142,135326
+2026-02-17,VR Headset,Wearables,West,237,373749
+2026-02-17,Fitness Band,Wearables,South,210,105420
+2026-02-17,Smart Glasses,Wearables,Central,147,228291
+2026-02-17,Router,Networking,North,166,281204
+2026-02-17,Switch,Networking,North,123,132840
+2026-02-17,WiFi Adapter,Networking,East,36,9792
+2026-02-17,Modem,Networking,South,233,407750
+2026-02-17,Access Point,Networking,North,112,102592
+2026-02-18,Laptop,Electronics,Central,162,244620
+2026-02-18,Mobile,Electronics,East,77,34111
+2026-02-18,Tablet,Electronics,West,190,246810
+2026-02-18,Monitor,Electronics,Central,96,47904
+2026-02-18,Camera,Electronics,West,224,289184
+2026-02-18,Keyboard,Accessories,West,153,43452
+2026-02-18,Mouse,Accessories,North,62,78244
+2026-02-18,Headphones,Accessories,South,43,63554
+2026-02-18,Webcam,Accessories,East,237,139830
+2026-02-18,Speaker,Accessories,Central,104,162344
+2026-02-18,Printer,Office,West,210,280350
+2026-02-18,Scanner,Office,East,174,114840
+2026-02-18,Projector,Office,East,96,134016
+2026-02-18,Desk Phone,Office,Central,196,225596
+2026-02-18,Paper Shredder,Office,North,160,232160
+2026-02-18,Smart Watch,Wearables,North,149,150043
+2026-02-18,VR Headset,Wearables,North,159,130380
+2026-02-18,Fitness Band,Wearables,East,99,133155
+2026-02-18,Smart Glasses,Wearables,East,35,57750
+2026-02-18,Router,Networking,South,77,97097
+2026-02-18,Switch,Networking,North,39,13182
+2026-02-18,WiFi Adapter,Networking,South,69,88044
+2026-02-18,Modem,Networking,West,157,60602
+2026-02-18,Access Point,Networking,West,142,132060
+2026-02-19,Laptop,Electronics,South,135,73170
+2026-02-19,Mobile,Electronics,North,38,52820
+2026-02-19,Tablet,Electronics,Central,230,339710
+2026-02-19,Monitor,Electronics,West,138,55338
+2026-02-19,Camera,Electronics,West,100,153700
+2026-02-19,Keyboard,Accessories,Central,226,385330
+2026-02-19,Mouse,Accessories,Central,179,223571
+2026-02-19,Headphones,Accessories,East,207,300771
+2026-02-19,Webcam,Accessories,East,70,101570
+2026-02-19,Speaker,Accessories,North,43,17243
+2026-02-19,Printer,Office,East,151,208380
+2026-02-19,Scanner,Office,West,35,54740
+2026-02-19,Projector,Office,West,111,39738
+2026-02-19,Desk Phone,Office,North,225,346725
+2026-02-19,Paper Shredder,Office,Central,88,132176
+2026-02-19,Smart Watch,Wearables,Central,213,78597
+2026-02-19,VR Headset,Wearables,East,149,105194
+2026-02-19,Fitness Band,Wearables,Central,56,67032
+2026-02-19,Smart Glasses,Wearables,East,118,84134
+2026-02-19,Router,Networking,West,95,115330
+2026-02-19,Switch,Networking,West,51,13566
+2026-02-19,WiFi Adapter,Networking,West,206,77044
+2026-02-19,Modem,Networking,East,50,69750
+2026-02-19,Access Point,Networking,South,74,60162
+2026-02-20,Laptop,Electronics,East,127,195326
+2026-02-20,Mobile,Electronics,North,90,113490
+2026-02-20,Tablet,Electronics,East,29,35612
+2026-02-20,Monitor,Electronics,North,170,51680
+2026-02-20,Camera,Electronics,South,44,60104
+2026-02-20,Keyboard,Accessories,South,143,185757
+2026-02-20,Mouse,Accessories,North,125,148125
+2026-02-20,Headphones,Accessories,North,124,149420
+2026-02-20,Webcam,Accessories,East,91,30121
+2026-02-20,Speaker,Accessories,North,92,89700
+2026-02-20,Printer,Office,Central,140,228060
+2026-02-20,Scanner,Office,East,177,174345
+2026-02-20,Projector,Office,North,66,25542
+2026-02-20,Desk Phone,Office,South,61,56120
+2026-02-20,Paper Shredder,Office,East,143,152152
+2026-02-20,Smart Watch,Wearables,West,86,44806
+2026-02-20,VR Headset,Wearables,North,54,83484
+2026-02-20,Fitness Band,Wearables,South,140,47880
+2026-02-20,Smart Glasses,Wearables,West,209,132715
+2026-02-20,Router,Networking,East,122,193248
+2026-02-20,Switch,Networking,South,197,107168
+2026-02-20,WiFi Adapter,Networking,East,63,100800
+2026-02-20,Modem,Networking,South,44,68772
+2026-02-20,Access Point,Networking,East,166,260620
+2026-02-21,Laptop,Electronics,North,111,81141
+2026-02-21,Mobile,Electronics,North,58,30218
+2026-02-21,Tablet,Electronics,Central,174,125628
+2026-02-21,Monitor,Electronics,Central,180,174960
+2026-02-21,Camera,Electronics,North,135,193590
+2026-02-21,Keyboard,Accessories,North,183,79056
+2026-02-21,Mouse,Accessories,West,211,123013
+2026-02-21,Headphones,Accessories,West,235,198105
+2026-02-21,Webcam,Accessories,South,61,30683
+2026-02-21,Speaker,Accessories,South,192,265536
+2026-02-21,Printer,Office,West,115,172500
+2026-02-21,Scanner,Office,Central,68,27064
+2026-02-21,Projector,Office,East,235,106455
+2026-02-21,Desk Phone,Office,West,143,257400
+2026-02-21,Paper Shredder,Office,East,115,153870
+2026-02-21,Smart Watch,Wearables,West,56,81760
+2026-02-21,VR Headset,Wearables,Central,56,22680
+2026-02-21,Fitness Band,Wearables,East,105,187845
+2026-02-21,Smart Glasses,Wearables,North,236,96052
+2026-02-21,Router,Networking,East,129,155961
+2026-02-21,Switch,Networking,South,208,366080
+2026-02-21,WiFi Adapter,Networking,Central,210,347550
+2026-02-21,Modem,Networking,South,143,96382
+2026-02-21,Access Point,Networking,South,159,137535
+2026-02-22,Laptop,Electronics,South,228,289104
+2026-02-22,Mobile,Electronics,South,147,264012
+2026-02-22,Tablet,Electronics,South,224,113568
+2026-02-22,Monitor,Electronics,West,87,110577
+2026-02-22,Camera,Electronics,Central,166,186252
+2026-02-22,Keyboard,Accessories,Central,56,48216
+2026-02-22,Mouse,Accessories,West,64,54976
+2026-02-22,Headphones,Accessories,East,116,46052
+2026-02-22,Webcam,Accessories,East,168,250656
+2026-02-22,Speaker,Accessories,West,87,125367
+2026-02-22,Printer,Office,South,93,100254
+2026-02-22,Scanner,Office,North,79,121028
+2026-02-22,Projector,Office,Central,143,175461
+2026-02-22,Desk Phone,Office,South,93,143871
+2026-02-22,Paper Shredder,Office,South,192,219264
+2026-02-22,Smart Watch,Wearables,West,131,56330
+2026-02-22,VR Headset,Wearables,North,68,82960
+2026-02-22,Fitness Band,Wearables,North,132,121308
+2026-02-22,Smart Glasses,Wearables,Central,132,134904
+2026-02-22,Router,Networking,North,38,16606
+2026-02-22,Switch,Networking,Central,182,254436
+2026-02-22,WiFi Adapter,Networking,North,171,259578
+2026-02-22,Modem,Networking,East,143,124839
+2026-02-22,Access Point,Networking,East,153,180387
+2026-02-23,Laptop,Electronics,East,174,108750
+2026-02-23,Mobile,Electronics,Central,154,158004
+2026-02-23,Tablet,Electronics,West,190,79800
+2026-02-23,Monitor,Electronics,South,219,271779
+2026-02-23,Camera,Electronics,South,50,20050
+2026-02-23,Keyboard,Accessories,Central,96,169632
+2026-02-23,Mouse,Accessories,Central,164,231568
+2026-02-23,Headphones,Accessories,East,63,105336
+2026-02-23,Webcam,Accessories,West,133,89243
+2026-02-23,Speaker,Accessories,Central,99,120681
+2026-02-23,Printer,Office,South,162,134784
+2026-02-23,Scanner,Office,Central,108,194400
+2026-02-23,Projector,Office,North,128,34304
+2026-02-23,Desk Phone,Office,Central,55,90640
+2026-02-23,Paper Shredder,Office,North,60,17100
+2026-02-23,Smart Watch,Wearables,West,212,284292
+2026-02-23,VR Headset,Wearables,West,65,44850
+2026-02-23,Fitness Band,Wearables,East,68,101932
+2026-02-23,Smart Glasses,Wearables,North,96,147072
+2026-02-23,Router,Networking,East,37,40182
+2026-02-23,Switch,Networking,North,163,253954
+2026-02-23,WiFi Adapter,Networking,North,27,35316
+2026-02-23,Modem,Networking,North,29,8294
+2026-02-23,Access Point,Networking,South,31,43555
+2026-02-24,Laptop,Electronics,West,54,17658
+2026-02-24,Mobile,Electronics,West,71,97483
+2026-02-24,Tablet,Electronics,Central,73,97820
+2026-02-24,Monitor,Electronics,East,78,20982
+2026-02-24,Camera,Electronics,Central,122,157746
+2026-02-24,Keyboard,Accessories,East,173,228187
+2026-02-24,Mouse,Accessories,East,196,234808
+2026-02-24,Headphones,Accessories,West,209,167827
+2026-02-24,Webcam,Accessories,East,119,151011
+2026-02-24,Speaker,Accessories,West,189,128142
+2026-02-24,Printer,Office,West,212,98156
+2026-02-24,Scanner,Office,West,168,242256
+2026-02-24,Projector,Office,North,111,189588
+2026-02-24,Desk Phone,Office,South,33,26103
+2026-02-24,Paper Shredder,Office,North,43,59383
+2026-02-24,Smart Watch,Wearables,Central,93,160425
+2026-02-24,VR Headset,Wearables,Central,88,154616
+2026-02-24,Fitness Band,Wearables,West,189,329616
+2026-02-24,Smart Glasses,Wearables,North,211,300675
+2026-02-24,Router,Networking,East,208,353600
+2026-02-24,Switch,Networking,East,31,39463
+2026-02-24,WiFi Adapter,Networking,North,48,80688
+2026-02-24,Modem,Networking,West,123,85977
+2026-02-24,Access Point,Networking,East,79,110047
+2026-02-25,Laptop,Electronics,South,197,197000
+2026-02-25,Mobile,Electronics,North,213,325251
+2026-02-25,Tablet,Electronics,South,115,199410
+2026-02-25,Monitor,Electronics,Central,103,37183
+2026-02-25,Camera,Electronics,West,157,150092
+2026-02-25,Keyboard,Accessories,East,55,22220
+2026-02-25,Mouse,Accessories,North,96,150912
+2026-02-25,Headphones,Accessories,East,193,184122
+2026-02-25,Webcam,Accessories,West,174,230202
+2026-02-25,Speaker,Accessories,West,82,143090
+2026-02-25,Printer,Office,South,174,284142
+2026-02-25,Scanner,Office,West,169,55770
+2026-02-25,Projector,Office,South,216,381888
+2026-02-25,Desk Phone,Office,South,214,313296
+2026-02-25,Paper Shredder,Office,North,220,332420
+2026-02-25,Smart Watch,Wearables,Central,234,400842
+2026-02-25,VR Headset,Wearables,Central,206,360706
+2026-02-25,Fitness Band,Wearables,West,224,122976
+2026-02-25,Smart Glasses,Wearables,South,169,143650
+2026-02-25,Router,Networking,Central,185,331705
+2026-02-25,Switch,Networking,Central,199,181090
+2026-02-25,WiFi Adapter,Networking,North,169,132327
+2026-02-25,Modem,Networking,Central,177,152220
+2026-02-25,Access Point,Networking,East,132,237336
+2026-02-26,Laptop,Electronics,South,168,296184
+2026-02-26,Mobile,Electronics,East,186,247008
+2026-02-26,Tablet,Electronics,North,149,210090
+2026-02-26,Monitor,Electronics,East,234,210600
+2026-02-26,Camera,Electronics,South,158,100330
+2026-02-26,Keyboard,Accessories,Central,42,24780
+2026-02-26,Mouse,Accessories,West,82,23124
+2026-02-26,Headphones,Accessories,North,151,133786
+2026-02-26,Webcam,Accessories,West,142,214420
+2026-02-26,Speaker,Accessories,Central,154,84854
+2026-02-26,Printer,Office,East,76,114228
+2026-02-26,Scanner,Office,South,168,290640
+2026-02-26,Projector,Office,South,168,240912
+2026-02-26,Desk Phone,Office,Central,61,63013
+2026-02-26,Paper Shredder,Office,East,200,123200
+2026-02-26,Smart Watch,Wearables,Central,135,147825
+2026-02-26,VR Headset,Wearables,West,81,94689
+2026-02-26,Fitness Band,Wearables,East,141,167085
+2026-02-26,Smart Glasses,Wearables,South,111,113109
+2026-02-26,Router,Networking,Central,209,205447
+2026-02-26,Switch,Networking,South,79,22041
+2026-02-26,WiFi Adapter,Networking,East,138,147798
+2026-02-26,Modem,Networking,East,42,71316
+2026-02-26,Access Point,Networking,West,183,268461
+2026-02-27,Laptop,Electronics,South,232,401360
+2026-02-27,Mobile,Electronics,South,90,80730
+2026-02-27,Tablet,Electronics,Central,104,136760
+2026-02-27,Monitor,Electronics,South,88,146520
+2026-02-27,Camera,Electronics,East,96,40224
+2026-02-27,Keyboard,Accessories,Central,159,211152
+2026-02-27,Mouse,Accessories,West,90,86850
+2026-02-27,Headphones,Accessories,North,194,102626
+2026-02-27,Webcam,Accessories,North,235,346155
+2026-02-27,Speaker,Accessories,South,169,53404
+2026-02-27,Printer,Office,East,27,25785
+2026-02-27,Scanner,Office,South,70,28980
+2026-02-27,Projector,Office,East,143,104247
+2026-02-27,Desk Phone,Office,Central,54,66906
+2026-02-27,Paper Shredder,Office,East,102,173808
+2026-02-27,Smart Watch,Wearables,South,105,126840
+2026-02-27,VR Headset,Wearables,East,178,300998
+2026-02-27,Fitness Band,Wearables,North,32,38912
+2026-02-27,Smart Glasses,Wearables,West,36,46476
+2026-02-27,Router,Networking,South,228,274512
+2026-02-27,Switch,Networking,North,153,196146
+2026-02-27,WiFi Adapter,Networking,East,224,282912
+2026-02-27,Modem,Networking,North,47,30174
+2026-02-27,Access Point,Networking,East,150,176100
+2026-02-28,Laptop,Electronics,Central,184,305624
+2026-02-28,Mobile,Electronics,South,192,277440
+2026-02-28,Tablet,Electronics,South,169,200941
+2026-02-28,Monitor,Electronics,South,190,208620
+2026-02-28,Camera,Electronics,Central,61,23607
+2026-02-28,Keyboard,Accessories,North,187,313599
+2026-02-28,Mouse,Accessories,West,236,64192
+2026-02-28,Headphones,Accessories,North,36,56412
+2026-02-28,Webcam,Accessories,South,78,55302
+2026-02-28,Speaker,Accessories,Central,99,63954
+2026-02-28,Printer,Office,East,137,44525
+2026-02-28,Scanner,Office,North,30,13950
+2026-02-28,Projector,Office,East,152,213864
+2026-02-28,Desk Phone,Office,East,93,79887
+2026-02-28,Paper Shredder,Office,East,91,40313
+2026-02-28,Smart Watch,Wearables,West,58,66468
+2026-02-28,VR Headset,Wearables,East,174,232638
+2026-02-28,Fitness Band,Wearables,North,159,155979
+2026-02-28,Smart Glasses,Wearables,Central,170,157590
+2026-02-28,Router,Networking,South,198,180378
+2026-02-28,Switch,Networking,North,104,89648
+2026-02-28,WiFi Adapter,Networking,East,174,276660
+2026-02-28,Modem,Networking,East,173,134940
+2026-02-28,Access Point,Networking,South,183,269376

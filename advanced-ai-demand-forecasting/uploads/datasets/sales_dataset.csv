@@ -1,0 +1,31 @@
+﻿date,product,category,region,sales,revenue
+01-01-2026,Laptop,Electronics,South,120,85000
+02-01-2026,Mobile,Electronics,South,200,120000
+03-01-2026,Tablet,Electronics,North,90,45000
+04-01-2026,Headphones,Accessories,East,150,30000
+05-01-2026,Smart Watch,Wearables,West,80,50000
+06-01-2026,Keyboard,Accessories,South,110,22000
+07-01-2026,Mouse,Accessories,North,95,18000
+08-01-2026,Monitor,Electronics,East,70,60000
+09-01-2026,Printer,Office,West,40,35000
+10-01-2026,Router,Networking,South,65,28000
+11-01-2026,SSD Storage,Electronics,North,140,75000
+12-01-2026,RAM Module,Electronics,South,130,68000
+13-01-2026,Graphics Card,Electronics,East,55,150000
+14-01-2026,Webcam,Accessories,West,85,27000
+15-01-2026,Microphone,Accessories,South,100,32000
+16-01-2026,Projector,Office,North,35,90000
+17-01-2026,Server Rack,Infrastructure,East,15,250000
+18-01-2026,Switch,Networking,West,60,42000
+19-01-2026,Power Bank,Accessories,South,170,34000
+20-01-2026,Drone,Electronics,North,25,110000
+21-01-2026,Camera,Electronics,East,45,98000
+22-01-2026,Speaker,Accessories,West,105,39000
+23-01-2026,Scanner,Office,South,38,31000
+24-01-2026,Tablet Pro,Electronics,North,75,88000
+25-01-2026,Laser Printer,Office,East,28,97000
+26-01-2026,VR Headset,Wearables,West,22,135000
+27-01-2026,Gaming Laptop,Electronics,South,48,220000
+28-01-2026,Smartphone X,Electronics,North,210,320000
+29-01-2026,WiFi Adapter,Networking,East,125,26000
+30-01-2026,Docking Station,Accessories,West,58,41000
